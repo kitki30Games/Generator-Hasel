@@ -1,2 +1,3 @@
 # Generator-Hasel
-Generator Haseł W Batchu
+
+Wielki Generator Hasel w bachu
