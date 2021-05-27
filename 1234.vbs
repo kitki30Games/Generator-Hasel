@@ -1,0 +1,1 @@
+X=msgbox("kliknij ok",1+15,"Minecraft")
