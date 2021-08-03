@@ -1,1 +1,0 @@
-X=msgbox("Haslo Zostalo Zapisane",1+14,"Generator Hasel (opcja zapisywania hasel)")
